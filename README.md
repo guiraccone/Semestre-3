@@ -1,2 +1,2 @@
 # Semestre-3
-Sequelize, bcrypt
+Sequelize, bcrypt, express
