@@ -1,0 +1,15 @@
+{
+    "database": {
+        "dialect": "mysql",
+        "host": "localhost",
+        "username": "root",
+        "password": "senai",
+        "database": "devapi",
+        "pool": {
+            "max": 5,
+            "min": 0,
+            "acquire": 30000,
+            "idle": 10000
+        }
+    }
+}
